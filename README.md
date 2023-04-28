@@ -7,7 +7,7 @@ If you find the respository useful for your work please cite:
 @article{hou2023chona,
   author    = {Hou, Zhi and Yu, Baosheng and Tao, Dacheng},
   title     = {Compositional 3D Human-Object Neural Animation},
-  journal   = {arXiv},
+  journal   = {arXiv preprint arXiv:2304.14070},
   year      = {2023},
 ```
 
